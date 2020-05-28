@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/calibom/static/css/main.83e3594f.chunk.css",
-    "main.js": "/calibom/static/js/main.7e68825a.chunk.js",
-    "main.js.map": "/calibom/static/js/main.7e68825a.chunk.js.map",
+    "main.js": "/calibom/static/js/main.d2b8d221.chunk.js",
+    "main.js.map": "/calibom/static/js/main.d2b8d221.chunk.js.map",
     "runtime-main.js": "/calibom/static/js/runtime-main.c0f5686e.js",
     "runtime-main.js.map": "/calibom/static/js/runtime-main.c0f5686e.js.map",
-    "static/js/2.40252618.chunk.js": "/calibom/static/js/2.40252618.chunk.js",
-    "static/js/2.40252618.chunk.js.map": "/calibom/static/js/2.40252618.chunk.js.map",
+    "static/js/2.3bc18efe.chunk.js": "/calibom/static/js/2.3bc18efe.chunk.js",
+    "static/js/2.3bc18efe.chunk.js.map": "/calibom/static/js/2.3bc18efe.chunk.js.map",
     "index.html": "/calibom/index.html",
-    "precache-manifest.3245c3ecb968138622a61db4f0ebe093.js": "/calibom/precache-manifest.3245c3ecb968138622a61db4f0ebe093.js",
+    "precache-manifest.7b737e1e1c632adbfb40b9bee94d76fe.js": "/calibom/precache-manifest.7b737e1e1c632adbfb40b9bee94d76fe.js",
     "service-worker.js": "/calibom/service-worker.js",
     "static/css/main.83e3594f.chunk.css.map": "/calibom/static/css/main.83e3594f.chunk.css.map",
-    "static/js/2.40252618.chunk.js.LICENSE.txt": "/calibom/static/js/2.40252618.chunk.js.LICENSE.txt"
+    "static/js/2.3bc18efe.chunk.js.LICENSE.txt": "/calibom/static/js/2.3bc18efe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c0f5686e.js",
-    "static/js/2.40252618.chunk.js",
+    "static/js/2.3bc18efe.chunk.js",
     "static/css/main.83e3594f.chunk.css",
-    "static/js/main.7e68825a.chunk.js"
+    "static/js/main.d2b8d221.chunk.js"
   ]
 }
