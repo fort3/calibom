@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/calibom/precache-manifest.9857de93bb7eb3f8f3d666cc6cf8f076.js"
+  "/calibom/precache-manifest.d91058be21d22e06bf59945cb8e1dda9.js"
 );
 
 self.addEventListener('message', (event) => {
