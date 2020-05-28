@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "080e892b3d91e1eafb7bdef08021ddaf",
+    "revision": "1d8e266bde6f8acb3e22d4f9b04b75a6",
     "url": "/calibom/index.html"
   },
   {
