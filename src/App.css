@@ -86,6 +86,10 @@ body,html {
     box-shadow: 0 3px 4px;
     padding-top:50px;
   }
+  img{
+   height:400px;
+   width:300px;
+  }
   #nstl{
     padding-top:40px;
   }
