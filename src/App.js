@@ -5,7 +5,7 @@ import Nav from './components/navbar';
 const introText= [
         <p id="nstl">"A micro regional green economy development foundation, building sustainable ecosystems..."</p>,
  <p id="nstl">Areas of interest include the local government areas of Akwa Ibom State and Cross River State in Nigeria. <br/><br/>
-    See the maps of both Akwa Ibom state and Cross River State respectively in the next slides... =></p>, 
+    See the maps of both Akwa Ibom state and Cross River State respectively in the next slides...</p>, 
        <img src="https://nigeriazipcodes.com/wp-content/uploads/2012/07/Akwa_Ibom-map-720x1024.jpg" alt="map of akwa ibom"/>,
   <img src="https://nigeriazipcodes.com/wp-content/uploads/2012/07/Cross-River-State-Postcode-Map-766x1024.jpg" alt="map of cross river"/>
       ];
