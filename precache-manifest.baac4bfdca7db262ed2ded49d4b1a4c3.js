@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77ff7fb31846d99277c808b4f0c85524",
+    "revision": "5828b725495ccfd09351e9235919bbc6",
     "url": "/calibom/index.html"
   },
   {
-    "revision": "6c725fce4282e41e4b3b",
+    "revision": "9f9df2349ed601888ff2",
     "url": "/calibom/static/css/main.83e3594f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calibom/static/js/2.40252618.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6c725fce4282e41e4b3b",
-    "url": "/calibom/static/js/main.7e68825a.chunk.js"
+    "revision": "9f9df2349ed601888ff2",
+    "url": "/calibom/static/js/main.7f728f7e.chunk.js"
   },
   {
     "revision": "81c7c7a32b664cc3de60",
