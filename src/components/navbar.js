@@ -5,7 +5,7 @@ class Nav extends React.Component{
   render(){
     return(<div className="navbar">
     <nav>
-      <a className="logo" href="index.html"><h1 className="head"><span id="header">Cal</span><i className="fa fa-tree"></i>Bom.org</h1></a>
+      <a className="logo" href="index.html"><h1 className="head"><span id="header">Cal</span><i className="fa fa-tree" id="tree"></i>Bom.org</h1></a>
           <ul>
             <li><a href={this.props.projects}>Projects</a></li>
             <li><a href={this.props.system}>System</a></li>

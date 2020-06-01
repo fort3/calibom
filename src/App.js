@@ -36,14 +36,18 @@ class CaliApp extends React.Component {
     
     return(
     <div className="main">
-         <Nav projects="#projects" system="#system" products="#products" intervention="#interv" about="#about" contact="#contact"/>
-        <main>
+                <main>
         <section id="intro">
-          <div id="intCont">
-            <p onChange={this.changeIntro} value={this.state.intro}>{introTxt}</p></div><i className="fa fa-chevron-right" id="secondarr" onClick={this.changeIntro} onChange={this.changeIntro}></i>
-        </section><br/>
-          <a href="#projects"><i className="fa fa-angle-double-down" id="arrowdown"></i></a>
-        <section id="break">
+         <Nav projects="#projects" system="#system" products="#products" intervention="#interv" about="#about" contact="#contact"/>
+<br />
+          </section><br/>
+         <div className="picMap"> 
+         <div id="intCont">
+            <p onChange={this.changeIntro} value={this.state.intro}>{introTxt}</p>
+            </div>
+            <i className="fa fa-chevron-right" id="secondarr" onClick={this.changeIntro} onChange={this.changeIntro}></i>
+        </div>
+         <section id="break">
           <div className="container">
             <h1>Make <span className="highlight">An</span> Enquiry.</h1>
             <form>
