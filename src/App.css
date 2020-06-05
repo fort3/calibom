@@ -41,8 +41,8 @@ body,html {
     margin: auto;
    }
   ul li:hover{
-   border-radius: 5px;
-   background:linear-gradient(105deg, lightgreen,white);
+   border-radius: 15px;
+   background:lightgreen;
   }
   ul li a{
     text-decoration: none;
